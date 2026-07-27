@@ -1,0 +1,16 @@
+# Core
+numpy
+pandas
+scipy
+scikit-learn
+tqdm
+
+# Deep learning
+torch
+torchvision
+timm            # ViT-S/16 (Group C)
+monai           # SwinTransformer / MARS encoder (Group A)
+transformers    # DINOv2 (Group B re-eval)
+
+# Medical image I/O
+SimpleITK       # NIfTI reading in preprocess.py
