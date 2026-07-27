@@ -9,10 +9,7 @@ preprocessing, training, and evaluation pipeline used in the paper.
 > for ethical and patient-privacy reasons. Only code is released here. See
 > [Data availability](#data-availability).
 >
-> **Note on the code.** For anonymization, the scripts have been stripped of
-> comments and docstrings, and **all local paths are left blank** — set them
-> before running (see [Configure paths](#configure-paths)). All documentation for
-> the pipeline lives in this README.
+
 
 ## Overview
 
